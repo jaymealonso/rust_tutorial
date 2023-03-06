@@ -10,13 +10,17 @@ Canal: [Derek Banas](https://www.youtube.com/@derekbanas)
 
 
 ## Para executar
-> ```cargo run <no do exercicios separado por espaço>```
+```
+cargo run <no do exercicios separado por espaço>
+```
 
 ### Exemplo
 
 Chamada:
 
-> ```cargo run -- 2 3 4```
+```
+cargo run -- 2 3 4
+```
 
 Resultado:
 
